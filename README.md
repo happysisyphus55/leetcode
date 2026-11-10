@@ -118,6 +118,7 @@ of algorithms and data structures :
 | ------- | ------- |
 | [1267-count-servers-that-communicate](https://github.com/happysisyphus55/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/happysisyphus55/leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/happysisyphus55/leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,4 +151,8 @@ of algorithms and data structures :
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/happysisyphus55/leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3693-climbing-stairs-ii](https://github.com/happysisyphus55/leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 <!---LeetCode Topics End-->
