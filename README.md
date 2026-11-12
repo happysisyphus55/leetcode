@@ -120,6 +120,7 @@ of algorithms and data structures :
 | [0049-group-anagrams](https://github.com/happysisyphus55/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/happysisyphus55/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/happysisyphus55/leetcode/tree/main/0057-insert-interval/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/happysisyphus55/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/happysisyphus55/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/happysisyphus55/leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/happysisyphus55/leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -159,6 +160,7 @@ of algorithms and data structures :
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/happysisyphus55/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/happysisyphus55/leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -178,6 +180,7 @@ of algorithms and data structures :
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/happysisyphus55/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/happysisyphus55/leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/happysisyphus55/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +188,7 @@ of algorithms and data structures :
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/happysisyphus55/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/happysisyphus55/leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
