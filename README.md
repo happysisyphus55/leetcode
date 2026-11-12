@@ -118,6 +118,7 @@ of algorithms and data structures :
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/happysisyphus55/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/happysisyphus55/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/happysisyphus55/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/happysisyphus55/leetcode/tree/main/0057-insert-interval/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/happysisyphus55/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/happysisyphus55/leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
@@ -176,6 +177,7 @@ of algorithms and data structures :
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/happysisyphus55/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/happysisyphus55/leetcode/tree/main/0056-merge-intervals/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,4 +186,8 @@ of algorithms and data structures :
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/happysisyphus55/leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/happysisyphus55/leetcode/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
