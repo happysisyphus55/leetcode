@@ -3,8 +3,10 @@
 interview practice mono-repo.
 
 <!---LeetCode Topics Start-->
-
+# LeetCode Topics
 ## LeetCode Topics
+| Problem Name | Difficulty |
+| ------- | ------- |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -13,6 +15,7 @@ interview practice mono-repo.
 | [0056-merge-intervals](https://github.com/happysisyphus55/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/happysisyphus55/leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/happysisyphus55/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/happysisyphus55/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/happysisyphus55/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/happysisyphus55/leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/happysisyphus55/leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -77,6 +80,7 @@ interview practice mono-repo.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/happysisyphus55/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/happysisyphus55/leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
