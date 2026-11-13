@@ -119,6 +119,7 @@ interview practice mono-repo.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1114-print-in-order](https://github.com/happysisyphus55/leetcode/tree/main/1114-print-in-order/) | Easy |
+| [1115-print-foobar-alternately](https://github.com/happysisyphus55/leetcode/tree/main/1115-print-foobar-alternately/) | Medium |
 <!---LeetCode Topics End-->
 
 ## Interview Part:
