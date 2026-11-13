@@ -115,6 +115,10 @@ interview practice mono-repo.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/happysisyphus55/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Concurrency
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1114-print-in-order](https://github.com/happysisyphus55/leetcode/tree/main/1114-print-in-order/) | Easy |
 <!---LeetCode Topics End-->
 
 ## Interview Part:
