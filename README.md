@@ -120,6 +120,10 @@ interview practice mono-repo.
 | ------- | ------- |
 | [1114-print-in-order](https://github.com/happysisyphus55/leetcode/tree/main/1114-print-in-order/) | Easy |
 | [1115-print-foobar-alternately](https://github.com/happysisyphus55/leetcode/tree/main/1115-print-foobar-alternately/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/happysisyphus55/leetcode/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
 
 ## Interview Part:
