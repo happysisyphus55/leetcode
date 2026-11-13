@@ -124,6 +124,7 @@ of algorithms and data structures :
 | [1267-count-servers-that-communicate](https://github.com/happysisyphus55/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/happysisyphus55/leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/happysisyphus55/leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/happysisyphus55/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/happysisyphus55/leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -194,4 +195,28 @@ of algorithms and data structures :
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/happysisyphus55/leetcode/tree/main/0056-merge-intervals/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/happysisyphus55/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/happysisyphus55/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/happysisyphus55/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/happysisyphus55/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/happysisyphus55/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/happysisyphus55/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 <!---LeetCode Topics End-->
