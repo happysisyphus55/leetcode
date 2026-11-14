@@ -19,6 +19,7 @@ interview practice mono-repo.
 | [1267-count-servers-that-communicate](https://github.com/happysisyphus55/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/happysisyphus55/leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/happysisyphus55/leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/happysisyphus55/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/happysisyphus55/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/happysisyphus55/leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Depth-First Search
@@ -106,6 +107,7 @@ interview practice mono-repo.
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/happysisyphus55/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/happysisyphus55/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -124,6 +126,10 @@ interview practice mono-repo.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/happysisyphus55/leetcode/tree/main/0176-second-highest-salary/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/happysisyphus55/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
 
 ## Interview Part:
