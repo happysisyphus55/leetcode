@@ -59,6 +59,7 @@ interview practice mono-repo.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/happysisyphus55/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/happysisyphus55/leetcode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/happysisyphus55/leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -66,6 +67,7 @@ interview practice mono-repo.
 | [0014-longest-common-prefix](https://github.com/happysisyphus55/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/happysisyphus55/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/happysisyphus55/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/happysisyphus55/leetcode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +134,10 @@ interview practice mono-repo.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/happysisyphus55/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/happysisyphus55/leetcode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 <!---LeetCode Topics End-->
 
 ## Interview Part:
