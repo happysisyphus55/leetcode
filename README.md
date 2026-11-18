@@ -68,6 +68,7 @@ interview practice mono-repo.
 | [0049-group-anagrams](https://github.com/happysisyphus55/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/happysisyphus55/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/happysisyphus55/leetcode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/happysisyphus55/leetcode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
