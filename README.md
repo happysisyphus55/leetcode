@@ -18,6 +18,7 @@ interview practice mono-repo.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/happysisyphus55/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/happysisyphus55/leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/happysisyphus55/leetcode/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/happysisyphus55/leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/happysisyphus55/leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/happysisyphus55/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/happysisyphus55/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
@@ -83,6 +84,7 @@ interview practice mono-repo.
 | [0049-group-anagrams](https://github.com/happysisyphus55/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/happysisyphus55/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/happysisyphus55/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/happysisyphus55/leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +94,7 @@ interview practice mono-repo.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/happysisyphus55/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/happysisyphus55/leetcode/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/happysisyphus55/leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
